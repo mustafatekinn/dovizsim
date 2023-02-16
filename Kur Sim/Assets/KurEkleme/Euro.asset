@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15c32e68ef417e14c94b54f977d31bed, type: 3}
+  m_Name: Euro
+  m_EditorClassIdentifier: 
+  DolarKarsiligiDeger: 1
+  KurIsmi: Kur Sekiz
+  KurunDogruResimleri:
+  - {fileID: 2800000, guid: 95988be0f461f1e4b9a52014cd6bfc90, type: 3}
+  - {fileID: 2800000, guid: 9912f3be77f035147a344ec7e3af6ec3, type: 3}
+  - {fileID: 2800000, guid: 09cebb89aa8ec6440a1bdb36772cd0b1, type: 3}
+  - {fileID: 2800000, guid: f09edc0a89bf2f24da11987a9a709716, type: 3}
+  - {fileID: 2800000, guid: 05701f73b9c9e7e4fa7e520a0eb324ff, type: 3}
+  - {fileID: 2800000, guid: 130c74ccd11639e48a732395f70fd933, type: 3}
+  - {fileID: 2800000, guid: b68c9ed4b058f484e8af0059f11d8fa1, type: 3}
+  - {fileID: 2800000, guid: e96b6b15de8b75f4cb011413c6aad043, type: 3}
+  - {fileID: 2800000, guid: 1dd34e5d094e8d940895e5191cf5af9d, type: 3}
+  - {fileID: 2800000, guid: 7bd3f482c96bcb84d81d7ed59db4744a, type: 3}
+  - {fileID: 2800000, guid: 0c0aa8d199e1221439898c2f84691eb7, type: 3}
+  - {fileID: 2800000, guid: 7a2cda9b3d3755146b36f2ad048f5ba9, type: 3}
+  KurunDegerleri: 050000000a000000140000003200000064000000c8000000
+  Sahte5Lik:
+  - {fileID: 2800000, guid: 6213fa2831e2b554ea720ab5e2fbebee, type: 3}
+  - {fileID: 2800000, guid: a3421c28a27024342aa727fb22785274, type: 3}
+  - {fileID: 2800000, guid: 328fb8f0f0d0062489baec1138b35dd2, type: 3}
+  - {fileID: 2800000, guid: d60a84fe5811f6048bb44a187c42c0a5, type: 3}
+  - {fileID: 2800000, guid: 9c5721e161406a24d8f93b5e6113b923, type: 3}
+  - {fileID: 2800000, guid: 56fd56a53d5f24d4c9b99b4a1162da5d, type: 3}
+  Sahte10Luk:
+  - {fileID: 2800000, guid: 667af5fbea71bac42b7b184e0dc57483, type: 3}
+  - {fileID: 2800000, guid: 8f400422ec8e1484587b27d06ef8e081, type: 3}
+  - {fileID: 2800000, guid: 3f7c22afd2e747340befad1a02774c5a, type: 3}
+  - {fileID: 2800000, guid: 1b15e442356e1c64cbdd14637d592b66, type: 3}
+  - {fileID: 2800000, guid: 455f63ddfe83dfe4ca3758e091ef2091, type: 3}
+  - {fileID: 2800000, guid: e7a397cfde4537a48b0a0060f8506af9, type: 3}
+  Sahte20Lik:
+  - {fileID: 2800000, guid: b31928874adff134bb52e4a9de1817fb, type: 3}
+  - {fileID: 2800000, guid: 8ac9339b1eb25ce4c90c1efc031cced5, type: 3}
+  - {fileID: 2800000, guid: 82e95c4a78c256b47b54a8f865834505, type: 3}
+  - {fileID: 2800000, guid: 29283f57c72f29d4cbb1f055b28413fd, type: 3}
+  - {fileID: 2800000, guid: 693648095239a9845b2c7989f7541510, type: 3}
+  - {fileID: 2800000, guid: 81711c7825dc60540bc9b81376a84a64, type: 3}
+  Sahte50Lik:
+  - {fileID: 2800000, guid: f9bd05acae6098042a0a86577301c3c9, type: 3}
+  - {fileID: 2800000, guid: 34f96e36a38bb1d4ab857eeb4265fc68, type: 3}
+  - {fileID: 2800000, guid: da66e7c57f2247e49bd7e544cfd855c0, type: 3}
+  - {fileID: 2800000, guid: 97a621f27b21f604993161057ddb215d, type: 3}
+  - {fileID: 2800000, guid: 99e3aa7cf0ce72348a23c11f1b840885, type: 3}
+  - {fileID: 2800000, guid: 453d237a34260324b95a9660d09f9f6f, type: 3}
+  Sahte100Luk:
+  - {fileID: 2800000, guid: 2ef9edb417e0ef743a2b6cb21fbbda0d, type: 3}
+  - {fileID: 2800000, guid: 1c907fb6f0636b049aa0d5dcb166789d, type: 3}
+  - {fileID: 2800000, guid: ad0a00e5f4f6c6646b356c32900b648c, type: 3}
+  - {fileID: 2800000, guid: 49790d22bec47a84697ed39478e31003, type: 3}
+  - {fileID: 2800000, guid: 6bd182599ba6478419a34ce1d069e180, type: 3}
+  - {fileID: 2800000, guid: 374c56401b4754c4f8a664ccce86cac3, type: 3}
+  Sahte200Luk:
+  - {fileID: 2800000, guid: 898d179e9e9114840b855262b4be5988, type: 3}
+  - {fileID: 2800000, guid: 45dc05041ca79ea4a9875c0d098f08bb, type: 3}
+  - {fileID: 2800000, guid: ee2ee0387a92da0438a14de2861d44db, type: 3}
+  - {fileID: 2800000, guid: daf0f8ef214da6b469df44039010d262, type: 3}
+  - {fileID: 2800000, guid: 07ad46d62d06d4f4e88351e1ac319452, type: 3}
+  - {fileID: 2800000, guid: 85fdeef99253cd540ba7e4388f8c30dd, type: 3}
+  Renk: {r: 0.26710796, g: 1, b: 0, a: 1}
